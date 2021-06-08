@@ -3,3 +3,6 @@ e estou adcionando mais informacoes
 
 
 adcionando commits direto no git
+
+
+adcionando mais algumas linhas pra subir pra o git
