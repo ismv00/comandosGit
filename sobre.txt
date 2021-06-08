@@ -1,2 +1,5 @@
 Oi eu sou o igor, instrutor oracle e tals
 e estou adcionando mais informacoes
+
+
+adcionando commits direto no git
